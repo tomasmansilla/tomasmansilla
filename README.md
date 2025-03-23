@@ -1,13 +1,6 @@
 ## Hello World 👋🏼 I'm Tomas!
 
-I'm going to be an Information Systems Engineer one day
-</br>
-
-I'm currenly studying:
-* Python
-* HTML
-* CSS
-
+I'm a Computer Science student at FAMAF, Universidad Nacional de Córdoba, Argentina.
 
 <h1>Contact Me</h1>
-You can reach me at agustitoman@gmail.com.
+You can reach me at mansillatomas@icloud.com
