@@ -2,5 +2,5 @@
 
 I'm Tomas, a Computer Science student at FAMAF, Universidad Nacional de Córdoba, Argentina.
 
-<h1>Contact Me</h1>
-You can reach me at mansillatomas@icloud.com
+## Contact Me
+You can reach me at <tomas.agustin.mansilla@mi.unc.edu.ar>
